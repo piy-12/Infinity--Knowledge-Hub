@@ -1,0 +1,21 @@
+Photosynthesis Summary:
+
+Photosynthesis is a fundamental biological process through which green plants, algae, and some bacteria convert light energy into chemical energy. It occurs mainly in the chloroplasts of plant cells, which contain the green pigment chlorophyll. This pigment captures sunlight to drive the reaction.
+
+The process uses carbon dioxide (CO₂) from the air and water (H₂O) from the soil to produce glucose (C₆H₁₂O₆), a sugar that provides energy, and oxygen (O₂) as a byproduct. The general equation for photosynthesis is:
+
+6 CO₂ + 6 H₂O + light energy → C₆H₁₂O₆ + 6 O₂
+
+Photosynthesis occurs in two main stages:
+
+Light-dependent reactions – These occur in the thylakoid membranes of the chloroplast and require sunlight. Water molecules are split to release oxygen, and energy carriers ATP and NADPH are produced.
+
+Light-independent reactions (Calvin Cycle) – These occur in the stroma of the chloroplast and do not require light directly. ATP and NADPH produced in the first stage are used to fix carbon dioxide into glucose.
+
+Importance of Photosynthesis:
+
+Provides food and energy for plants and indirectly for all living organisms.
+
+Produces oxygen, which is essential for the survival of most life forms.
+
+Helps in reducing carbon dioxide levels in the atmosphere, thus regulating the Earth’s climate.
